@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: #030303;
+    justify-content: center;
+    align-items: center;
+    background-color: #957777;
+}
+
+#show_text{
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+}
