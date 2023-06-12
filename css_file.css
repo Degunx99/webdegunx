@@ -7,6 +7,14 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #957777;
+    max-width: 100%;
+}
+
+
+.container {
+    width: 100%;
+    min-height: 200px;
+    flex-wrap: wrap;
 }
 
 #show_text{

@@ -1,4 +1,3 @@
-$('#text_input').on("change", () => {
-    let text = $('#text_input').val();
-    $('#show_text').text(text);
+$('#text_input').keyup( () => {
+    $('#show_text').html($('#text_input').val());
 });
